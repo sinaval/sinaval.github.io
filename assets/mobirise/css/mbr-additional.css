@@ -1700,23 +1700,17 @@ body {
   margin-top: 1rem;
   margin-bottom: 0;
 }
-.cid-qPMNaXLQf2 {
+.cid-qPMOBmxmuf {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #465052;
 }
-.cid-qPMNaXLQf2 .mbr-text {
-  color: #767676;
+.cid-qPMOBmxmuf .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
 }
-.cid-qPMNaXLQf2 h4 {
-  text-align: center;
-}
-.cid-qPMNaXLQf2 p {
-  text-align: center;
-}
-.cid-qPMNaXLQf2 .card-img span {
-  font-size: 96px;
-  color: #149dcc;
+.cid-qPMOBmxmuf .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qPMsJpu1OO {
   padding-top: 30px;
