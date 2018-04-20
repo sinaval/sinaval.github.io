@@ -1502,7 +1502,7 @@ body {
 .cid-qPMExQQ0uz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ff7f9f;
+  background-color: #68c75b;
 }
 .cid-qPMExQQ0uz h2 {
   text-align: center;
@@ -1532,7 +1532,7 @@ body {
   word-break: break-word;
 }
 .cid-qPMExQQ0uz .mbr-section-subtitle {
-  color: #767676;
+  color: #000000;
 }
 .cid-qPMExQQ0uz .card-title {
   font-weight: 500;
@@ -1570,6 +1570,13 @@ body {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
   }
+}
+.cid-qPMExQQ0uz .mbr-section-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-qPMExQQ0uz .mbr-crt-title {
+  text-align: center;
 }
 .cid-qPMECJ1BHo {
   padding-top: 90px;
@@ -1643,10 +1650,16 @@ body {
     -webkit-flex-basis: 100%;
   }
 }
+.cid-qPMECJ1BHo .mbr-crt-title {
+  text-align: center;
+}
+.cid-qPMECJ1BHo .mbr-section-text {
+  text-align: center;
+}
 .cid-qPMDDxpDXj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background6.jpg");
+  background-image: url("../../../assets/images/dsc01608-2000x1122.jpg");
 }
 .cid-qPMDDxpDXj h4 {
   font-weight: 500;
@@ -1686,6 +1699,24 @@ body {
 .cid-qPMDDxpDXj .card-box .mbr-section-btn a {
   margin-top: 1rem;
   margin-bottom: 0;
+}
+.cid-qPMNaXLQf2 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qPMNaXLQf2 .mbr-text {
+  color: #767676;
+}
+.cid-qPMNaXLQf2 h4 {
+  text-align: center;
+}
+.cid-qPMNaXLQf2 p {
+  text-align: center;
+}
+.cid-qPMNaXLQf2 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-qPMsJpu1OO {
   padding-top: 30px;
